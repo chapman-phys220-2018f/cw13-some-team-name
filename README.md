@@ -25,5 +25,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Jacob Anabi, Gage Kizzar.**
+**Jacob Anabi, Gage Kizzar**
 
